@@ -1,0 +1,13 @@
+Current Status: Website fully functional, Google Bucket has the chosen music, music page can access and
+stream the music from the google bucket, groups were created and permissions edited to permit access to
+admin group and restrict access to user group. Crontab managed backup script. The backup script saves the
+back up both in the lilgunnerclouse home directory and as copy in the Google Bucket.
+
+Things to do still:
+	Finetune website for visual appeal
+	Create README for backup script
+	Create Power Point for presentation
+	Record presentation with demo
+	Finish short document to list group members and who's server the project is on
+	Submit recording and documents
+	GET AN A+ :)
